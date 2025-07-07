@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run feed generator
-        uses: CodeBot-Creator/podcasr-generator@main
+        uses: CodeBot-Creator/podcast-generator@main
