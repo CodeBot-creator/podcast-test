@@ -38,3 +38,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-What's Happening in 2025
+    description: janidu gamlath
+    published: Thu, 12 Jan 2025 18:00:00 GMT
+    file: /audio/TFIT01.mp3
+    duration: 00:00:36
+    length: 576,324
